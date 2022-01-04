@@ -1,0 +1,44 @@
+.cardofpokemon  
+{
+    
+    border-radius: 20px;
+    box-shadow: 0 3px 15px rgb(100 100 100 / 50%);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 150px;
+  }
+  
+  .cardofpokemon  .name 
+  {
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 2pc;
+    margin-bottom: 20px;
+  }
+
+  .cardofpokemon img
+  {
+    max-height: 100px;
+    max-width: 100%;
+  }
+
+
+
+
+.Plante {
+    background-color:  rgb(222, 253, 224);
+}
+
+.Feu { 
+    background-color: rgb(253, 223, 223)
+} 
+.Eau { 
+    background-color: rgb(222, 243, 253)
+} 
+
+.Insecte { 
+    background-color: rgb(248, 213, 163)
+} 
+    
+
