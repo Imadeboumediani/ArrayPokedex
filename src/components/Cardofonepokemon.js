@@ -1,5 +1,5 @@
 import React from 'react';
-import './Cardofonepokemon.css';
+import '../styles/Cardofonepokemon.css';
 
 //création du composant affichant une carte d'un seul pokémon 
 

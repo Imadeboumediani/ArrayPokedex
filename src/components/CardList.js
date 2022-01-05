@@ -1,14 +1,14 @@
 import React from 'react';
 import Cardofonepokemon from './Cardofonepokemon';
 import { allpokemons } from './PokemonData';
-import './CardList.css';
+import '../styles/CardList.css'; 
 
 
 
 const CardList = () => {
   return (
 
-    //on donne des propriétés qu'on définit nous même et qu'on affiche dans ce composant
+    //création d'un composant pour afficher toutes les cartes de pokemons presents dans nos données 
     <div>
       <div className='poke-container'>
         {allpokemons.map((user, i) =>
